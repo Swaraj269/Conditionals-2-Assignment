@@ -1,0 +1,1 @@
+Output of the given code will be -> x and y are equal

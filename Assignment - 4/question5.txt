@@ -1,0 +1,1 @@
+Output of the given code will be -> Value of t: 0

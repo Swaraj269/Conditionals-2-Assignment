@@ -1,0 +1,3 @@
+Output of the given code will be -> 
+        First character 1
+        Second character 49
